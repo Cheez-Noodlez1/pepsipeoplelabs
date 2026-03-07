@@ -1,3 +1,4 @@
+# edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only edu purposes only 
 import tkinter as tk
 import random
 import threading
@@ -190,7 +191,7 @@ def phase_reveal():
     clear_screen()
     title.config(text="RELAX.", fg="lime")
     status.config(
-        text="This was a fake virus.\nNo files were touched.\nPress Ctrl + Alt + Q to exit.",
+        text="This was a fake virus.\nNo files were touched.\nPress Ctrl + Alt + Del to exit.",
         fg="white"
     )
 
@@ -265,4 +266,5 @@ threading.Thread(target=drop_decoy_files, daemon=True).start()
 threading.Thread(target=create_and_delete_marker, daemon=True).start()
 
 root.mainloop()
+
 1
