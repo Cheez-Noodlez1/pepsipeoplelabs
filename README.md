@@ -6,3 +6,8 @@ features: no alt f4, No programs, No alt tab, perm full screen, no win tab, crea
 how to end: ctrl alt del
 type: trojan (technically as it is undetectable and creates files)
 severity: may scare your grandma
+##====jet2====
+features: no alt f4, No programs, No alt tab, perm full screen, no win tab
+how to end: ctrl alt delete
+type: PUP or malware idk
+severity: its kinda fun to cure boredom ngl. may scare people who hate memes
