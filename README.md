@@ -6,7 +6,7 @@ features: no alt f4, No programs, No alt tab, perm full screen, no win tab, crea
 how to end: ctrl alt del
 type: trojan (technically as it is undetectable and creates files)
 severity: may scare your grandma
-##====jet2====
+## jet2.zip
 features: no alt f4, No programs, No alt tab, perm full screen, no win tab
 how to end: ctrl alt delete
 type: PUP or malware idk
